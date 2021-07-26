@@ -9,4 +9,3 @@
 3. 북마크는 다음과 같은 순서로 이름을 작성한다. 
    -> 논문, 이론, 정리, 참고, 수식, (C,C++,Pyhton) 구현: 북마크 이름
    -> ex) MSE, PSNR, SSIM, Delta E\ 참고, 수식, Python 구현: PSNR and SSIM Metric: Python Implementation - CV Notes
-
