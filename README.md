@@ -12,3 +12,29 @@
    
    -> 논문, 이론, 정리, 참고, 수식, (C,C++,Pyhton) 구현: 북마크 이름
    -> ex) MSE, PSNR, SSIM, Delta E\ 참고, 수식, Python 구현: PSNR and SSIM Metric: Python Implementation - CV Notes
+
+<!doctype html>
+<html>
+<head><meta charset="utf-8"></head>
+   
+<body>
+        <h1>example 2-1</h1>
+        <h2>html example</h2>
+        
+        <p>hello world</p>
+        <p>hello
+            world
+        </p>
+        <p>hello<br>world</p>
+        <pre>
+            hello world
+            hello
+                world
+        </pre>
+        <pre>
+            <h2>hello
+                    world
+            </h2>
+        </pre>
+    </body>
+</html>
